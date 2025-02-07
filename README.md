@@ -5,7 +5,7 @@
 The client wants to extract valuable insights from server data by analyzing it, including key metrics such as revenue, trends, customer preferences, and more.
 
 ## Dataset
-The database consists of four tables—Pizza_Types, Pizzas, Orders, and Order_Details—containing extensive data on pizza types, ingredients, prices, order details, and more.
+The database consists of four tables (Pizza_Types, Pizzas, Orders, and Order_Details) containing extensive data on pizza types, ingredients, prices, order details, and more.
 
 ## Data Manipulation and Analysis
 The data was efficiently handled and manipulated using SQL, allowing complex queries to extract, filter, and aggregate information. SQL was used to join tables, update records, and ensure data accuracy, transforming raw information into meaningful insights.
