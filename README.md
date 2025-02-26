@@ -1,4 +1,4 @@
-# Pizza Resturant Sales Data Project
+# Pizza Resturant Sales Project
 
 ----------------
 ## Overview
